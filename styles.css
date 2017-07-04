@@ -38,8 +38,8 @@
     display: block;
     margin: auto;
     max-width: 100%;
-    padding-top: 3em;
-    height: 8.8vh;
+    padding-top: 1em;
+    height: 6.8vh;
 }
 
 
@@ -57,7 +57,7 @@
     text-align: center;
     color: #aaaaaa;
     font-family: 'Corbert-Regular';
-    font-size: 70%
+    font-size: 80%
 }
 .menu {
     display: flex;
@@ -146,10 +146,13 @@ li {
 }
 
 .mfp-container {
+    background: white;
 
 }
 
 .mfp-content {
+    background: white;
+    z-index: 0 !important;
 
 }
 

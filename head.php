@@ -30,6 +30,7 @@
     <!-- Magnific Popup core JS file -->
     <script src="libs/dist/js/jquery.magnific-popup.js"></script>
 
+    <link rel="shortcut icon" href="images/favicon/6.png" type="image/x-icon">
 
 </head>
 
