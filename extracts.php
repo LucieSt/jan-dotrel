@@ -20,31 +20,34 @@
     <?php include 'menu.php' ?>
     <div class="content-container">
 
-        <div class="row">
+        <div class="row extracts">
             <div class="col-md-4">
                 <div class="gallery">
 
                     <a href="https://vimeo.com/222125279" class="mfp-iframe">
-                        <img src="images/extracts/Video%20Vteriny%20symetrie.jpg" class="portfolio-image" id="extra1">
+                        <img src="images/extracts/small/Video%20Vteriny%20symetrie.jpg" class="portfolio-image" id="extra1">
                     </a>
 
                 </div>
+                <span class="extracts-title">VIDEO / VTEŘINY SYMETRIE</span>
             </div>
             <div class="col-md-4">
                 <div class="gallery">
                     <a href="images/extracts/1.jpg">
-                        <img src="images/extracts/Video%20Grid.jpg" class="portfolio-image">
+                        <img src="images/extracts/small/Video%20Grid.jpg" class="portfolio-image" id="extra2">
                     </a>
                     <a href="images/extracts/2.jpg"></a>
                     <a href="http://vimeo.com/123123" class="mfp-iframe"></a>
                 </div>
+                <span class="extracts-title">VIDEO / GRID</span>
             </div>
+
             <div class="col-md-4">
 
 
                 <div class="gallery">
                     <a href="images/extracts/1.jpg">
-                        <img src="images/extracts/Making%20of.jpg" class="portfolio-image">
+                        <img src="images/extracts/small/Making%20of.jpg" class="portfolio-image" id="extra3">
                     </a>
                     <a href="images/extracts/2.jpg"></a>
                     <a href="images/extracts/3.jpg"></a>
@@ -52,7 +55,7 @@
                     <a href="images/extracts/5.jpg"></a>
                     <a href="images/extracts/6.jpg"></a>
                 </div>
-
+                <span class="extracts-title">MAKING OF</span>
             </div>
 
         </div>
@@ -69,16 +72,33 @@
             },
             image: {
                 cursor: null
-            }
-
+            },
+            preload: [1,1]
         });
     });
 
     $('#extra1').hover(function(){
-        $('#extra1').attr('src', 'images/extracts/Video%20Vteriny%20symetrie%20Box.jpg')
+        $('#extra1').attr('src', 'images/extracts/small/Video%20Vteriny%20symetrie%20Box.jpg')
     }, function(){
-        $('#extra1').attr('src', 'images/extracts/Video%20Vteriny%20symetrie.jpg')
+        $('#extra1').attr('src', 'images/extracts/small/Video%20Vteriny%20symetrie.jpg')
     });
+
+    $('#extra2').hover(function(){
+        $('#extra2').attr('src', 'images/extracts/small/Video%20Grid%20Box.jpg')
+    }, function(){
+        $('#extra2').attr('src', 'images/extracts/small/Video%20Grid.jpg')
+    });
+
+    $('#extra3').hover(function(){
+        $('#extra3').attr('src', 'images/extracts/small/Making%20of%20Box.jpg')
+    }, function(){
+        $('#extra3').attr('src', 'images/extracts/small/Making%20of.jpg')
+    });
+
+
+
+
+
 
 
 </script>

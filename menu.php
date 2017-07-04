@@ -10,12 +10,16 @@
 <div class="menu-container">
     <div class="row">
         <div class="col-md-12">
-            <a href="index"><img src="images/top_logo.jpg" id="main_logo"></a>
+            <a href="index">
+                <img src="images/top_logo.jpg" id="main_logo">
+            </a>
         </div>
     </div>
     <div class="row">
-        <div class="col-md-12">
-            <a href="index"><img src="images/main_line.jpg" id="main_line"></a>
+        <div class="col-md-12 main_line_container">
+            <a href="index">
+                <img src="images/main_line.jpg" id="main_line">
+            </a>
         </div>
     </div>
 

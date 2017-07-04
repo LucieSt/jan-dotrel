@@ -27,13 +27,13 @@
             <div id="autor-carousel" class="carousel" data-ride="carousel">
                 <div class="carousel-inner" role="listbox">
                     <div class="item active">
-                        <img src="images/autor/1.jpg" class="autor-image">
+                        <img src="images/autor/small/1.jpg" class="autor-image">
                     </div>
                     <div class="item">
-                        <img src="images/autor/2.jpg" class="autor-image">
+                        <img src="images/autor/small/2.jpg" class="autor-image">
                     </div>
                     <div class="item">
-                        <img src="images/autor/3.jpg" class="autor-image">
+                        <img src="images/autor/small/3.jpg" class="autor-image">
                     </div>
                 </div>
             </div>
@@ -84,7 +84,8 @@
 
 <script>
     $('#autor-carousel').carousel({
-        interval: 5000
+        interval: 4000,
+        pause: "false"
     })
 </script>
 
