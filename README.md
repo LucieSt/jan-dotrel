@@ -1,2 +1,2 @@
-# jan_dotrel
+# Jan Dotřel
 Jan Dotřel's personal webpage
