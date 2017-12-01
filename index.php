@@ -20,22 +20,25 @@
 
     <div class="content-container">
 
-        <div id="homepage-carousel" class="carousel" data-ride="carousel">
+        <div id="homepage-carousel" class="carousel fade" data-ride="carousel">
             <div class="carousel-inner" role="listbox">
-                <div class="item active">
-                    <img src="images/homepage/small/%201%20Lysis%20(Dekompozice).jpg" class="homepage-image">
+                <div class="item active" id="white" >
+                    <img src="images/homepage/thumbs/00.jpg" class="homepage-image">
                 </div>
                 <div class="item">
-                    <img src="images/homepage/small/Grid%206.jpg" class="homepage-image">
+                    <img src="images/homepage/thumbs/01.jpg" class="homepage-image">
                 </div>
                 <div class="item">
-                    <img src="images/homepage/small/4%20Portret%20pro%20Eadwearda%20Muybridge.jpg" class="homepage-image">
+                    <img src="images/homepage/thumbs/02.jpg" class="homepage-image">
                 </div>
                 <div class="item">
-                    <img src="images/homepage/small/3%20Portret%20pro%20Francise%20Bacona.jpg" class="homepage-image">
+                    <img src="images/homepage/thumbs/03.jpg" class="homepage-image">
                 </div>
                 <div class="item">
-                    <img src="images/homepage/small/2%20Spherical%20Gas%20Tank.jpg" class="homepage-image">
+                    <img src="images/homepage/thumbs/04.jpg" class="homepage-image">
+                </div>
+                <div class="item">
+                    <img src="images/homepage/thumbs/05.jpg" class="homepage-image">
                 </div>
             </div>
         </div>
@@ -44,9 +47,22 @@
 
 <script>
     $('#homepage-carousel').carousel({
-        interval: 4000,
+        interval: 7000,
         pause: "false"
-    })
+    });
+
+    setTimeout(function(){
+        $('#white').remove();
+    }, 5000);
+
+
+    setTimeout(function(){
+        $('#homepage-carousel').carousel("next");
+
+    }, 100);
+
+
+
 </script>
 
 </body>

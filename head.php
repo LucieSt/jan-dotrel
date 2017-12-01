@@ -9,8 +9,9 @@
 ?>
 <head>
     <title>Jan Dotřel</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
 
+    <link rel="stylesheet/less" type="text/css" href="styles.less">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/less.js/2.7.2/less.min.js"></script>
     <!-- Magnific Popup core CSS file -->
     <link rel="stylesheet" href="libs/dist/css/magnific-popup.css">
 
@@ -30,7 +31,7 @@
     <!-- Magnific Popup core JS file -->
     <script src="libs/dist/js/jquery.magnific-popup.js"></script>
 
-    <link rel="shortcut icon" href="images/favicon/6.png" type="image/x-icon">
+    <link rel="shortcut icon" href="images/favicon/icon.png" type="image/x-icon">
 
 </head>
 
