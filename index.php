@@ -12,7 +12,6 @@
 <html>
 <?php include 'head.php' ?>
 
-
 <body>
 
 <div class="container-fluid">
@@ -60,10 +59,9 @@
         $('#homepage-carousel').carousel("next");
 
     }, 100);
-
-
-
 </script>
+
+<script src="script.js"></script>
 
 </body>
 </html>

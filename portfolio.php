@@ -18,7 +18,7 @@
 <div class="container-fluid">
     <?php include 'menu.php' ?>
 
-    <div class="content-container">
+    <div class="content-container content-other">
         <div class="portfolio-wrap">
             <div class="row portfolio">
 
@@ -251,13 +251,9 @@
         $('#grid8').attr('src', 'images/portfolio/small/Portrait.jpg')
     });
 
-
-
-
-
-
-
 </script>
+
+<script src="script.js"></script>
 
 </body>
 

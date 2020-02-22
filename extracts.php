@@ -123,10 +123,9 @@
         $('#extra3').attr('src', 'images/extracts/boxes/03.jpg')
     });
 
-
-
-
 </script>
+
+<script src="script.js"></script>
 
 </body>
 </html>
