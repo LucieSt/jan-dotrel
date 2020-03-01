@@ -33,13 +33,13 @@
             </div>
             <div class="col-md-4">
                 <div class="gallery">
-                    <a href="#test-popup" class="open-popup-link">
+                    <a href="https://www.youtube.com/watch?v=h5pYtC7Xqrw" class="mfp-iframe">
                         <img src="images/extracts/boxes/02.jpg" class="portfolio-image" id="extra2">
                     </a>
 
 
                 </div>
-                <span class="extracts-title">VIDEO / GRID</span>
+                <span class="extracts-title">TEASER / DEEPLY ORDERED CHAOS</span>
             </div>
 
             <div class="col-md-4">
