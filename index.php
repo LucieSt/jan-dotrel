@@ -36,9 +36,6 @@
                 <div class="item">
                     <img src="images/homepage/thumbs/04.jpg" class="homepage-image">
                 </div>
-                <div class="item">
-                    <img src="images/homepage/thumbs/05.jpg" class="homepage-image">
-                </div>
             </div>
         </div>
     </div>
