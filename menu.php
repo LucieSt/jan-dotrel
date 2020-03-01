@@ -32,7 +32,7 @@
                 <div></div>
                 <div></div>
             </div>
-            <div id="menuwrapper" class="hidden-class">
+            <div class="menuwrapper hidden-class">
                 <div class="menuitem"><a href="autor">A U T O R</a></div>
                 <div class="menuitem"><a href="extracts">E X T R A C T S</a></div>
                 <div class="menuitem"><a href="portfolio">P O R T F O L I O</a></div>

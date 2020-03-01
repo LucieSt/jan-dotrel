@@ -8,24 +8,25 @@
     src: url(fonts/Gidole-Regular.otf); /*URL to font*/
 }
 
-#menuwrapper {
+.menuwrapper {
     text-align: justify;
     -ms-text-justify: distribute-all-lines;
     text-justify: distribute-all-lines;
     @media (max-width: 700px){
-        // display: none;
         padding-top: 40px;
+        opacity: 1;
+        transition: opacity 0.4s 0.1s ease-in;
     }
 }
 
-.hidden-class {
-    // display: none;
+div.hidden-class {
     visibility: hidden;
+    opacity: 0;
     transition: height 0.5s;
-    // transition: visibility 0s, opacity 0.5s linear;
+    transition: visibility 0.3s 0s ease, opacity 0.3s 0s ease-out;
     @media (min-width: 701px){
-        // display: block;
         visibility: visible;
+        opacity: 1;
     }
 }
 
@@ -143,6 +144,7 @@
 #main_line {
     max-width: 100%;
     border-top: 1px solid rgba(0, 0, 0, 0.2);
+    margin-right: 0;
 }
 .portfolio {
     padding: 0;
@@ -159,9 +161,14 @@
 }
 
 .autor {
-    padding-top: 2vh;
+    // padding-top: 2vh;
     justify-content: center;
     max-width: 70vw;
+    @media (max-width: 701px){
+        padding: 0 10px 0 10px;
+        max-width: 100vh;
+    }
+    
 }
 
 div.row.no-gutters.autor {
@@ -169,16 +176,27 @@ div.row.no-gutters.autor {
     margin: 0 auto;
 }
 
-.autor-text {
+div.autor-text {
     color: #908e8f;
     font-family: 'Gidole-Regular';
     text-align: justify;
     font-size: 1.1em;
+    @media (max-width: 900px){
+        margin-top: 50px;
+    }
 }
 
 .autor-image {
-    max-width: 45% !important;
-    width: 45% !important;
+    // max-width: 45% !important;
+    width: 45%;
+    @media (max-width: 450px){
+        width: 70%;
+        margin: auto;
+    }
+    @media (min-width: 451px) and (max-width: 701px){
+        width: 50%;
+        margin: auto;
+    }
 }
 
 ul {
@@ -204,33 +222,52 @@ li {
 
 .carousel-inner {
     height: 70vh;
+    @media (max-width: 900px){
+        height: auto;
+    }
 }
 
 .nopadding {
     padding: 0 !important;
-    margin: 0 !important;
+    margin: 0;
 }
 
 .nopadding-ll {
-    padding-left: 1%  !important;
-    padding-right: 2%  !important;
-    margin: 0 !important;
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    @media (min-width: 992px){
+        padding-left: 1%  !important;
+        padding-right: 2%  !important;
+        margin: 0 !important;
+    }
 }
 
 .nopadding-rr {
-    padding-left: 2%  !important;
-    padding-right: 1%  !important;
-    margin: 0 !important;
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    @media (min-width: 992px){
+        padding-left: 2%  !important;
+        padding-right: 1%  !important;
+        margin: 0 !important;
+    }
 }
 
 .nopadding-left {
-    padding-right: 3% !important;
+    padding-right: 0 !important;
     padding-left: 0 !important;
+    @media (min-width: 992px){
+        padding-right: 3% !important;
+        padding-left: 0 !important;
+    }
 }
 
 .nopadding-right {
-    padding-left: 3% !important;
     padding-right: 0 !important;
+    padding-left: 0 !important;
+    @media (min-width: 992px){
+        padding-left: 3% !important;
+        padding-right: 0 !important;
+    }
 }
 
 .mfp-counter, .mfp-close, .mfp-arrow {
@@ -366,11 +403,11 @@ img.mfp-img{
 .menu-bottom {
     height: 30px;
     transition: height 0.5s;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 div.change-height {
-    height: 200px;
+    height: 220px;
 }
 
 .hamburger {
