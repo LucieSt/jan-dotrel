@@ -20,8 +20,7 @@
     <div class="content-container">
 
         <div class="text-text">
-            <br><br>
-            <p class="center"><br>“I believe in deeply ordered chaos.”<br>
+            <p class="center">“I believe in deeply ordered chaos.”<br>
             </p>
             <p class="right">Francis Bacon<br><br></p>
 
@@ -48,23 +47,13 @@
 
             <p>Dalším příkladem proměny vzorce bylo znázornění procesu zanikání – lysis, tedy rozkladu organických tkání. Rozpad je v tomto případě simulován pomocí hoření binární číselné řady (soustava nul a jedniček), vytvářením explozí nebo hledáním postupně mizejících čtvercových rastrů, které jsem nacházel.</p>
 
-            <p class="center"><br><br>„Nejúpornější myšlenkou je sen o zachycení kusu chaosu.“<br>
+            <p class="center"><br>„Nejúpornější myšlenkou je sen o zachycení kusu chaosu.“<br>
                 </p>
             <p class="right">Gilles Deleuze, Felix Guattari<br><br></p>
 
             <p>Transformaci přesné sktruktury jsem se nejdéle věnoval při vytváření fotografie Grid 6 / Singularita. Změna stavu zde není věnována procesu rozkládání, nýbrž jeho (opačnému?) principu. Vznik nepřesnosti zde ilustruje stav samotné prvotní kreace. Oslava nerovnováhy, proměna dosavadního řádu, kreativní entropie – to jsou stavy, které se pokouším zaznamenat. Obdobné téma jsem chtěl ilustrovat i při tvorbě Icosahedronu. Postavit přesný geometrický tvar – komplexní platónské těleso – a následně jej použít pro vyvážený a symetrický fotografický obraz. Kde se ovšem v jeho středu bude dít pomocí lomu světelných paprsků cosi, co absolutně nejsem schopný kontrolovat.</p>
 
             <p>Může se zdát, že jsou mé fotografie velice přesné, geometrizované až estetizované – a mnohdy ano, mám to rád. Každá z nich však (nikoli nutně na první pohled) obsahuje (a někdy ukrývá) tento nekontrolovaný a nekontrolovatelný bod.</p>
-
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-
 
         </div>
     </div>

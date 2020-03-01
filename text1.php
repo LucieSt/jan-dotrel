@@ -20,8 +20,7 @@
     <div class="content-container">
 
         <div class="text-text">
-            <br><br>
-            <p class="center"><br>“V myšlení se člověk vydává na nebezpečnou pouť tam a zase zpátky, aby přinesl kousek chaosu, jenž pak obrací proti mínění.”<br>
+            <p class="center">“V myšlení se člověk vydává na nebezpečnou pouť tam a zase zpátky, aby přinesl kousek chaosu, jenž pak obrací proti mínění.”
             </p>
             <p class="right">Gilles Deleuze a Félix Guattari: Co je filosofie, 1991<br><br></p>
 
@@ -33,20 +32,9 @@
 
             <p>Umění, potažmo celá kultura a společenské vědy, však fungují zcela opačně. Kultura není historicky lineární a hierarchie jsou zdánlivé. Cokoliv, co se stane předmětem kultury, nikdy nezaniká a vždy se může vrátit, zmutovat k nepoznání a infikovat přítomnost. Svět funguje jako pole možností, ze kterého jsou sestavovány kompozice. K exaktním vědám bude mít umění vždy ambivalentní vztah, protože propasti jsou pro představivost mnohem přitažlivější než jejich zaplňování, a umění nechce být pouhou ilustrací již vyřčeného. Výše zmíněná cizost a divnost je jakýmsi intuitivním kompasem, který loď imaginace naviguje mimo všechny dosud známé země a horizonty. Janovy pokusy o konfrontaci primárních geometrických struktur a matematických principů s neredukovatelným chaosem jsou pak vyjádřením právě této nespokojenosti s tím, co je nám známo. Vychází z fascinace nad dokonalostí proporcí těles, které starořečtí filosofové považovali za model světa - a zároveň se snaží je vidět nezatíženým zrakem a pokusit se aspoň metaforicky vyčistit stůl od starých ontologických koncepcí. Jeden svět nestačí, protože jiný svět je možný.</p>
 
-            <p class="right">
-                <br>Jozef Mrva ml.
+            <p class="right"><br>
+                Jozef Mrva ml.
             </p>
-
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-
-
         </div>
     </div>
 </div>

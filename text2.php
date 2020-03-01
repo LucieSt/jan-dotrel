@@ -21,8 +21,6 @@
 
 
         <div class="text-text">
-            <br><br>
-            <p><br>
                 Fotografie se někdy sbližuje s malířstvím, jindy naopak; někdy aranžuje, jindy nikoli; chce být dokumentem,
                 a současně chce znepokojovat náznaky. To nejsou krajnosti, nýbrž sama podstata fotografie, která je dvojí:
                 je ikonická, to jest podobá se tomu, co zachycuje, a je indexikální, protože jako natažený prst ukazuje k tomu,
@@ -52,15 +50,6 @@
             <p class="right">
                 <br>Prof. Miroslav Petříček, Dr.
             </p>
-
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
         </div>
     </div>
 </div>
