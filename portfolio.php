@@ -24,11 +24,51 @@
             <div class="row portfolio">
 
 
+                <div class="col-md-3 nopadding-left">
+                    <div class="gallery">
+                        <a href="images/portfolio/worlds/01.jpg" title="">
+                            <img src="images/portfolio/worlds/other_worlds.jpg" class="portfolio-image portfolio-margin" id="grid4">
+                        </a>
 
-			<div class="col-md-3 nopadding-left">
+                        <a href="images/portfolio/worlds/02.jpg" title=""></a>
+                        <a href="images/portfolio/worlds/03.jpg" title=""></a>
+                        <a href="images/portfolio/worlds/04.jpg" title=""></a>
+                        <a href="images/portfolio/worlds/05.jpg" title=""></a>
+                        <a href="images/portfolio/worlds/06.jpg" title=""></a>
+                        <a href="images/portfolio/worlds/07.jpg" title=""></a>
+                        <a href="images/portfolio/worlds/08.jpg" title=""></a>
+                        <a href="images/portfolio/worlds/09.jpg" title=""></a>
+                        <a href="images/portfolio/worlds/10.jpg" title=""></a>
+                        <a href="images/portfolio/worlds/11.jpg" title=""></a>
+                        <a href="images/portfolio/worlds/12.jpg" title=""></a>
+                        <a href="images/portfolio/worlds/13.jpg" title=""></a>
+                        <a href="images/portfolio/worlds/14.jpg" title=""></a>
+                        <a href="images/portfolio/worlds/15.jpg" title=""></a>
+                        <a href="images/portfolio/worlds/16.jpg" title=""></a>
+                        <a href="images/portfolio/worlds/17.jpg" title=""></a>
+                        <a href="images/portfolio/worlds/19.jpg" title=""></a>
+                        <a href="images/portfolio/worlds/20.jpg" title=""></a>
+                        <a href="images/portfolio/worlds/20a.jpg" title=""></a>
+                        <a href="images/portfolio/worlds/20b.jpg" title=""></a>
+                        <a href="images/portfolio/worlds/23.jpg" title=""></a>
+                        <a href="images/portfolio/worlds/25.jpg" title=""></a>
+                        <a href="images/portfolio/worlds/30.jpg" title=""></a>
+
+                        <!-- <a href="images/portfolio/relics/thumbs/02.jpg" title=""></a>
+                        <a href="images/portfolio/relics/thumbs/03.jpg" title=""></a>
+                        <a href="images/portfolio/relics/thumbs/04.jpg" title=""></a>
+                        <a href="images/portfolio/relics/thumbs/05.jpg" title=""></a>
+                        <a href="images/portfolio/relics/thumbs/06.jpg" title=""></a>
+                        <a href="images/portfolio/relics/thumbs/07.jpg" title=""></a>
+                        <a href="images/portfolio/relics/thumbs/08.jpg" title=""></a> -->
+                    </div>
+                </div>
+
+
+			    <div class="col-md-3 nopadding-ll">
                     <div class="gallery">
                         <a href="images/portfolio/chaos1/01-min.jpg" title="H Y P E R K U B O I D , &nbsp&nbsp 2 0 1 5">
-                            <img src="images/portfolio/small/01-min.jpg" class="portfolio-image" id="grid1">
+                            <img src="images/portfolio/small/01-min.jpg" class="portfolio-image portfolio-margin" id="grid1">
                         </a>
                         <a href="images/portfolio/chaos1/02-min.jpg" title=""></a>
                         <a href="images/portfolio/chaos1/03-min.jpg" title=""></a>
@@ -49,10 +89,10 @@
                     </div>
                 </div>
 
-                <div class="col-md-3 nopadding-ll">
+                <div class="col-md-3 nopadding-rr">
                     <div class="gallery">
                         <a href="images/portfolio/land/thumbs/01.jpg" title="O N E &nbsp O F &nbsp T H E S E &nbsp D A Y S , &nbsp&nbsp 2 0 1 0">
-                            <img src="images/portfolio/small/02-min.jpg" class="portfolio-image" id="grid2">
+                            <img src="images/portfolio/small/02-min.jpg" class="portfolio-image portfolio-margin" id="grid2">
                         </a>
                         <a href="images/portfolio/land/thumbs/02.jpg" title="L E T H E &nbsp P E D I O N , &nbsp&nbsp 2 0 0 9"></a>
                         <a href="images/portfolio/land/thumbs/03.jpg" title=""></a>
@@ -64,10 +104,10 @@
                 </div>
 
 
-                <div class="col-md-3 nopadding-rr">
+                <div class="col-md-3 nopadding-right">
                     <div class="gallery">
                         <a href="images/portfolio/chaos2/01-min.jpg" title="G R I D &nbsp&nbsp V I &nbsp&nbsp / &nbsp&nbsp S I N G U L A R I T A , &nbsp&nbsp 2 0 1 7">
-                            <img src="images/portfolio/small/03-min.jpg" class="portfolio-image" id="grid3">
+                            <img src="images/portfolio/small/03-min.jpg" class="portfolio-image portfolio-margin" id="grid3">
                         </a>
                         <a href="images/portfolio/chaos2/02-min.jpg" title=""></a>
                         <a href="images/portfolio/chaos2/03-min.jpg" title="L Y S I S &nbsp&nbsp / &nbsp&nbsp D E K O M P O Z I C E &nbsp&nbsp  I , &nbsp&nbsp 2 0 1 4"></a>
@@ -79,22 +119,6 @@
                         <a href="images/portfolio/chaos2/09-min.jpg" title="G R I D &nbsp&nbsp  V , &nbsp&nbsp  2 0 1 5"></a>
                         <a href="images/portfolio/chaos2/10-min.jpg" title="P O R T R É T &nbsp P R O &nbsp R O L A N D A &nbsp B A R T H E S E ,  &nbsp&nbsp 2 0 1 6"></a>
                         <a href="images/portfolio/chaos2/11-min.jpg" title=""></a>
-                    </div>
-                </div>
-
-
-                <div class="col-md-3 nopadding-right">
-                    <div class="gallery">
-                        <a href="images/portfolio/relics/thumbs/01.jpg" title="">
-                            <img src="images/portfolio/small/04-min.jpg" class="portfolio-image" id="grid4">
-                        </a>
-                        <a href="images/portfolio/relics/thumbs/02.jpg" title=""></a>
-                        <a href="images/portfolio/relics/thumbs/03.jpg" title=""></a>
-                        <a href="images/portfolio/relics/thumbs/04.jpg" title=""></a>
-                        <a href="images/portfolio/relics/thumbs/05.jpg" title=""></a>
-                        <a href="images/portfolio/relics/thumbs/06.jpg" title=""></a>
-                        <a href="images/portfolio/relics/thumbs/07.jpg" title=""></a>
-                        <a href="images/portfolio/relics/thumbs/08.jpg" title=""></a>
                     </div>
                 </div>
 
@@ -144,7 +168,7 @@
 
                     <div class="gallery">
                         <a href="images/portfolio/grid3/thumbs/01.jpg" title="P O R T R É T &nbsp P R O &nbsp A D O L F A &nbsp E I C H M A N N A , &nbsp&nbsp 2 0 1 2">
-                            <img src="images/portfolio/small/05-min.jpg" class="portfolio-image" id="grid5">
+                            <img src="images/portfolio/small/05-min.jpg" class="portfolio-image portfolio-margin" id="grid5">
                         </a>
                         <a href="images/portfolio/grid3/thumbs/02.jpg" title=""></a>
                         <a href="images/portfolio/grid3/thumbs/03.jpg" title="P O R T R É T &nbsp P R O &nbsp B E N J A M I N A &nbsp S V A Š K A , &nbsp&nbsp 2 0 1 5"></a>
@@ -160,7 +184,7 @@
                 <div class="col-md-3 nopadding-ll">
                     <div class="gallery">
                         <a href="images/portfolio/blinks/thumbs/01.jpg" title="E P I L O G , &nbsp&nbsp 2 0 1 1">
-                            <img src="images/portfolio/small/06-min.jpg" class="portfolio-image" id="grid6">
+                            <img src="images/portfolio/small/06-min.jpg" class="portfolio-image portfolio-margin" id="grid6">
                         </a>
                         <a href="images/portfolio/blinks/thumbs/02.jpg" title="F A C E B O O K , &nbsp&nbsp 2 0 1 0"></a>
                         <a href="images/portfolio/blinks/thumbs/03.jpg" title="A Q U A - R I U M , &nbsp&nbsp 2 0 1 1"></a>
@@ -180,7 +204,7 @@
                 <div class="col-md-3 nopadding-rr">
                     <div class="gallery">
                         <a href="images/portfolio/early/thumbs/01.jpg" title="B E Z &nbsp N Á Z V U , &nbsp&nbsp 2 0 0 9 ">
-                            <img src="images/portfolio/small/07-min.jpg" class="portfolio-image" id="grid7">
+                            <img src="images/portfolio/small/07-min.jpg" class="portfolio-image portfolio-margin" id="grid7">
                         </a>
                         <a href="images/portfolio/early/thumbs/02.jpg" title="H O L Y &nbsp M R V A , &nbsp&nbsp 2 0 0 9"></a>
                         <a href="images/portfolio/early/thumbs/03.jpg" title=""></a>
@@ -197,7 +221,7 @@
                 <div class="col-md-3 nopadding-right">
                     <div class="gallery">
                         <a href="images/portfolio/portrait/thumbs/01.jpg" title="P O R T R É T &nbsp I V A N A &nbsp P I N K A V Y , &nbsp&nbsp 2 0 1 3">
-                            <img src="images/portfolio/small/08-min.jpg" class="portfolio-image" id="grid8">
+                            <img src="images/portfolio/small/08-min.jpg" class="portfolio-image portfolio-margin" id="grid8">
                         </a>
                         <a href="images/portfolio/portrait/thumbs/02.jpg" title="P O R T R É T &nbsp P R O &nbsp F R A N C I S E &nbsp B A C O N A , &nbsp&nbsp 2 0 1 4"></a>
                         <a href="images/portfolio/portrait/thumbs/03.jpg" title="A U T O P O R T R É T , &nbsp&nbsp 2 0 1 5"></a>
@@ -214,6 +238,7 @@
 </div>
 
 <script>
+
     $(window).on('hashchange',function() {
 
         if(location.href.indexOf("#gal")<0) {
@@ -245,63 +270,74 @@
     });
 
 
-
-
-    $('#grid1').hover(function(){
-        $('#grid1').attr('src', 'images/portfolio/BOX/small/01-min.jpg')
-    }, function(){
-        $('#grid1').attr('src', 'images/portfolio/small/01-min.jpg')
-    });
-
-
-
-    $('#grid2').hover(function(){
-        $('#grid2').attr('src', 'images/portfolio/BOX/small/02-min.jpg')
-    }, function(){
-        $('#grid2').attr('src', 'images/portfolio/small/02-min.jpg')
-    });
-
-
-    $('#grid3').hover(function(){
-        $('#grid3').attr('src', 'images/portfolio/BOX/small/03-min.jpg')
-    }, function(){
-        $('#grid3').attr('src', 'images/portfolio/small/03-min.jpg')
-    });
-
-
-    $('#grid4').hover(function(){
-        $('#grid4').attr('src', 'images/portfolio/BOX/small/04-min.jpg')
-    }, function(){
-        $('#grid4').attr('src', 'images/portfolio/small/04-min.jpg')
-    });
-
-
-    $('#grid5').hover(function(){
-        $('#grid5').attr('src', 'images/portfolio/BOX/small/05-min.jpg')
-    }, function(){
-        $('#grid5').attr('src', 'images/portfolio/small/05-min.jpg')
-    });
-
-
-    $('#grid6').hover(function(){
-        $('#grid6').attr('src', 'images/portfolio/BOX/small/06-min.jpg')
-    }, function(){
-        $('#grid6').attr('src', 'images/portfolio/small/06-min.jpg')
-    });
-
-
-    $('#grid7').hover(function(){
-        $('#grid7').attr('src', 'images/portfolio/BOX/small/07-min.jpg')
-    }, function(){
-        $('#grid7').attr('src', 'images/portfolio/small/07-min.jpg')
-    });
-
-
-    $('#grid8').hover(function(){
+    if ($(window).width() < 700) {
+        $('#grid1').attr('src', 'images/portfolio/BOX/small/01-min.jpg');
+        $('#grid2').attr('src', 'images/portfolio/BOX/small/02-min.jpg');
+        $('#grid3').attr('src', 'images/portfolio/BOX/small/03-min.jpg');
+        $('#grid4').attr('src', 'images/portfolio/BOX/other_worlds_box.jpg');
+        $('#grid5').attr('src', 'images/portfolio/BOX/small/05-min.jpg');
+        $('#grid6').attr('src', 'images/portfolio/BOX/small/06-min.jpg');
+        $('#grid7').attr('src', 'images/portfolio/BOX/small/07-min.jpg');
         $('#grid8').attr('src', 'images/portfolio/BOX/small/08-min.jpg')
-    }, function(){
-        $('#grid8').attr('src', 'images/portfolio/small/08-min.jpg')
-    });
+    }
+    else {
+
+        $('#grid1').hover(function(){
+            $('#grid1').attr('src', 'images/portfolio/BOX/small/01-min.jpg')
+        }, function(){
+            $('#grid1').attr('src', 'images/portfolio/small/01-min.jpg')
+        });
+        
+
+        $('#grid2').hover(function(){
+            $('#grid2').attr('src', 'images/portfolio/BOX/small/02-min.jpg')
+        }, function(){
+            $('#grid2').attr('src', 'images/portfolio/small/02-min.jpg')
+        });
+
+
+        $('#grid3').hover(function(){
+            $('#grid3').attr('src', 'images/portfolio/BOX/small/03-min.jpg')
+        }, function(){
+            $('#grid3').attr('src', 'images/portfolio/small/03-min.jpg')
+        });
+
+
+        $('#grid4').hover(function(){
+            $('#grid4').attr('src', 'images/portfolio/BOX/other_worlds_box.jpg')
+        }, function(){
+            $('#grid4').attr('src', 'images/portfolio/worlds/other_worlds.jpg')
+        });
+
+
+        $('#grid5').hover(function(){
+            $('#grid5').attr('src', 'images/portfolio/BOX/small/05-min.jpg')
+        }, function(){
+            $('#grid5').attr('src', 'images/portfolio/small/05-min.jpg')
+        });
+
+
+        $('#grid6').hover(function(){
+            $('#grid6').attr('src', 'images/portfolio/BOX/small/06-min.jpg')
+        }, function(){
+            $('#grid6').attr('src', 'images/portfolio/small/06-min.jpg')
+        });
+
+
+        $('#grid7').hover(function(){
+            $('#grid7').attr('src', 'images/portfolio/BOX/small/07-min.jpg')
+        }, function(){
+            $('#grid7').attr('src', 'images/portfolio/small/07-min.jpg')
+        });
+
+
+        $('#grid8').hover(function(){
+            $('#grid8').attr('src', 'images/portfolio/BOX/small/08-min.jpg')
+        }, function(){
+            $('#grid8').attr('src', 'images/portfolio/small/08-min.jpg')
+        });
+
+    }
 
 </script>
 

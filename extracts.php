@@ -18,32 +18,37 @@
 
 <div class="container-fluid">
     <?php include 'menu.php' ?>
-    <div class="content-container">
+    <div class="content-container extracts-container">
 
         <div class="row extracts">
             <div class="col-md-4">
                 <div class="gallery">
-
-                    <a href="https://www.youtube.com/watch?v=WPmBlTzymzk" class="mfp-iframe">
+                    <a href="https://www.youtube.com/watch?v=Ie12_t7qRKM" class="mfp-iframe" autoplay="1">
                         <img src="images/extracts/boxes/01.jpg" class="portfolio-image" id="extra1">
                     </a>
-
                 </div>
-                <span class="extracts-title">VIDEO / VTEŘINY SYMETRIE</span>
+                <span class="extracts-title">OTHER WORLDS</span>
             </div>
+
             <div class="col-md-4">
                 <div class="gallery">
-                    <a href="https://www.youtube.com/watch?v=h5pYtC7Xqrw" class="mfp-iframe">
+                    <a href="https://www.youtube.com/watch?v=FXgFy8M0jwc" class="mfp-iframe" autoplay="1">
                         <img src="images/extracts/boxes/02.jpg" class="portfolio-image" id="extra2">
                     </a>
-
-
                 </div>
-                <span class="extracts-title">TEASER / DEEPLY ORDERED CHAOS</span>
+                <span class="extracts-title">DEEPLY ORDERED CHAOS</span>
             </div>
 
             <div class="col-md-4">
+                <div class="gallery">
+                    <a href="https://www.youtube.com/watch?v=WPmBlTzymzk" class="mfp-iframe" autoplay="1">
+                        <img src="images/extracts/boxes/03.jpg" class="portfolio-image" id="extra3">
+                    </a>
+                </div>
+                <span class="extracts-title">VTEŘINY SYMETRIE</span>
+            </div>
 
+            <!-- <div class="col-md-4">
 
                 <div class="gallery">
                     <a href="images/extracts/thumbs/01.jpg">
@@ -58,7 +63,7 @@
                     <a href="images/extracts/thumbs/08.jpg"></a>
                 </div>
                 <span class="extracts-title">MAKING OF</span>
-            </div>
+            </div> -->
 
         </div>
 
@@ -105,23 +110,30 @@
         midClick: true // Allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source in href.
     });
 
-    $('#extra1').hover(function(){
+    if ($(window).width() < 700) {
         $('#extra1').attr('src', 'images/extracts/boxes/01_box.jpg')
-    }, function(){
-        $('#extra1').attr('src', 'images/extracts/boxes/01.jpg')
-    });
-
-    $('#extra2').hover(function(){
         $('#extra2').attr('src', 'images/extracts/boxes/02_box.jpg')
-    }, function(){
-        $('#extra2').attr('src', 'images/extracts/boxes/02.jpg')
-    });
-
-    $('#extra3').hover(function(){
         $('#extra3').attr('src', 'images/extracts/boxes/03_box.jpg')
-    }, function(){
-        $('#extra3').attr('src', 'images/extracts/boxes/03.jpg')
-    });
+    }
+    else {
+        $('#extra1').hover(function(){
+            $('#extra1').attr('src', 'images/extracts/boxes/01_box.jpg')
+        }, function(){
+            $('#extra1').attr('src', 'images/extracts/boxes/01.jpg')
+        });
+
+        $('#extra2').hover(function(){
+            $('#extra2').attr('src', 'images/extracts/boxes/02_box.jpg')
+        }, function(){
+            $('#extra2').attr('src', 'images/extracts/boxes/02.jpg')
+        });
+
+        $('#extra3').hover(function(){
+            $('#extra3').attr('src', 'images/extracts/boxes/03_box.jpg')
+        }, function(){
+            $('#extra3').attr('src', 'images/extracts/boxes/03.jpg')
+        });
+    }
 
 </script>
 

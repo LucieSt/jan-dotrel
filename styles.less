@@ -157,7 +157,16 @@ div.hidden-class {
 
 .portfolio-image {
     max-width: 100%;
-    padding: 10% 0%;
+    margin: 10% 0%;
+    @media (max-width: 700px){
+        margin: 0 0 10%;
+    }
+}
+
+.portfolio-margin {
+    @media (max-width: 700px){
+        margin: 0 0 20%;
+    }
 }
 
 .autor {
@@ -358,10 +367,13 @@ img.mfp-img{
 
 .extracts-title {
     display: table;
-    margin: 0 auto;
+    margin: 0 auto;    
     color: #aaaaaa;
     font-family: 'Corbert-Regular';
     text-align: center;
+    @media (max-width: 700px){
+        margin: 0 auto 10%;
+    }
 }
 
 .main_line_container {
@@ -404,7 +416,7 @@ img.mfp-img{
 .menu-bottom {
     height: 30px;
     transition: height 0.5s;
-    margin-bottom: 20px;
+    margin-bottom: 22px;
 }
 
 div.change-height {
@@ -469,20 +481,26 @@ div.change-height {
     // padding-top: 8%;
     text-align: center;
     flex-wrap: wrap;
+    @media (min-width: 701px){
+        padding-bottom: 30px;
+    }
+}
+
+.content-container.extracts-container {
+    @media (max-width: 700px){
+        margin: 0 auto 0;
+    }
 }
 
 .row.texts {
-    padding-top: 8%;
-    display: flex;
-    justify-content: space-between;
-    text-align: center;
-    flex-wrap: wrap;
-}
-
-.row.texts {
-    padding-top: 8%;        
-    text-align: center;
-    flex-wrap: wrap;
+    padding: 20px 15px 0;
+    a span {
+        margin-bottom: 50px;
+    }
+    @media (min-width: 701px){
+        padding-top: 70px;
+        font-size: 1.1em;
+    }
 }
 
 .text-text {
@@ -493,7 +511,7 @@ div.change-height {
     position: absolute;
     padding: 45px 20% 160px 20%;
     @media (max-width: 700px){
-        padding: 30px 0;
+        padding: 0;
     }
     p {
         margin: 0 0 10px;
