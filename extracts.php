@@ -23,7 +23,7 @@
         <div class="row extracts">
             <div class="col-md-4">
                 <div class="gallery">
-                    <a href="https://www.youtube.com/watch?v=Ie12_t7qRKM" class="mfp-iframe" autoplay="1">
+                    <a href="https://www.youtube.com/watch?v=Ie12_t7qRKM" class="mfp-iframe">
                         <img src="images/extracts/boxes/01.jpg" class="portfolio-image" id="extra1">
                     </a>
                 </div>
@@ -32,7 +32,7 @@
 
             <div class="col-md-4">
                 <div class="gallery">
-                    <a href="https://www.youtube.com/watch?v=FXgFy8M0jwc" class="mfp-iframe" autoplay="1">
+                    <a href="https://www.youtube.com/watch?v=FXgFy8M0jwc" class="mfp-iframe">
                         <img src="images/extracts/boxes/02.jpg" class="portfolio-image" id="extra2">
                     </a>
                 </div>
@@ -41,29 +41,12 @@
 
             <div class="col-md-4">
                 <div class="gallery">
-                    <a href="https://www.youtube.com/watch?v=WPmBlTzymzk" class="mfp-iframe" autoplay="1">
+                    <a href="https://www.youtube.com/watch?v=WPmBlTzymzk" class="mfp-iframe">
                         <img src="images/extracts/boxes/03.jpg" class="portfolio-image" id="extra3">
                     </a>
                 </div>
                 <span class="extracts-title">VTEŘINY SYMETRIE</span>
             </div>
-
-            <!-- <div class="col-md-4">
-
-                <div class="gallery">
-                    <a href="images/extracts/thumbs/01.jpg">
-                        <img src="images/extracts/boxes/03.jpg" class="portfolio-image" id="extra3">
-                    </a>
-                    <a href="images/extracts/thumbs/02.jpg"></a>
-                    <a href="images/extracts/thumbs/03.jpg"></a>
-                    <a href="images/extracts/thumbs/04.jpg"></a>
-                    <a href="images/extracts/thumbs/05.jpg"></a>
-                    <a href="images/extracts/thumbs/06.jpg"></a>
-                    <a href="images/extracts/thumbs/07.jpg"></a>
-                    <a href="images/extracts/thumbs/08.jpg"></a>
-                </div>
-                <span class="extracts-title">MAKING OF</span>
-            </div> -->
 
         </div>
 

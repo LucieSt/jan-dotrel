@@ -27,7 +27,7 @@
                 <div class="col-md-3 nopadding-left">
                     <div class="gallery">
                         <a href="images/portfolio/worlds/01.jpg" title="">
-                            <img src="images/portfolio/worlds/other_worlds.jpg" class="portfolio-image portfolio-margin" id="grid4">
+                            <img src="images/portfolio/worlds/other_worlds.jpg" class="portfolio-image portfolio-margin" id="grid1">
                         </a>
 
                         <a href="images/portfolio/worlds/02.jpg" title=""></a>
@@ -68,7 +68,7 @@
 			    <div class="col-md-3 nopadding-ll">
                     <div class="gallery">
                         <a href="images/portfolio/chaos1/01-min.jpg" title="H Y P E R K U B O I D , &nbsp&nbsp 2 0 1 5">
-                            <img src="images/portfolio/small/01-min.jpg" class="portfolio-image portfolio-margin" id="grid1">
+                            <img src="images/portfolio/small/01-min.jpg" class="portfolio-image portfolio-margin" id="grid2">
                         </a>
                         <a href="images/portfolio/chaos1/02-min.jpg" title=""></a>
                         <a href="images/portfolio/chaos1/03-min.jpg" title=""></a>
@@ -92,7 +92,7 @@
                 <div class="col-md-3 nopadding-rr">
                     <div class="gallery">
                         <a href="images/portfolio/land/thumbs/01.jpg" title="O N E &nbsp O F &nbsp T H E S E &nbsp D A Y S , &nbsp&nbsp 2 0 1 0">
-                            <img src="images/portfolio/small/02-min.jpg" class="portfolio-image portfolio-margin" id="grid2">
+                            <img src="images/portfolio/small/02-min.jpg" class="portfolio-image portfolio-margin" id="grid3">
                         </a>
                         <a href="images/portfolio/land/thumbs/02.jpg" title="L E T H E &nbsp P E D I O N , &nbsp&nbsp 2 0 0 9"></a>
                         <a href="images/portfolio/land/thumbs/03.jpg" title=""></a>
@@ -107,7 +107,7 @@
                 <div class="col-md-3 nopadding-right">
                     <div class="gallery">
                         <a href="images/portfolio/chaos2/01-min.jpg" title="G R I D &nbsp&nbsp V I &nbsp&nbsp / &nbsp&nbsp S I N G U L A R I T A , &nbsp&nbsp 2 0 1 7">
-                            <img src="images/portfolio/small/03-min.jpg" class="portfolio-image portfolio-margin" id="grid3">
+                            <img src="images/portfolio/small/03-min.jpg" class="portfolio-image portfolio-margin" id="grid4">
                         </a>
                         <a href="images/portfolio/chaos2/02-min.jpg" title=""></a>
                         <a href="images/portfolio/chaos2/03-min.jpg" title="L Y S I S &nbsp&nbsp / &nbsp&nbsp D E K O M P O Z I C E &nbsp&nbsp  I , &nbsp&nbsp 2 0 1 4"></a>
@@ -271,42 +271,41 @@
 
 
     if ($(window).width() < 700) {
-        $('#grid1').attr('src', 'images/portfolio/BOX/small/01-min.jpg');
-        $('#grid2').attr('src', 'images/portfolio/BOX/small/02-min.jpg');
-        $('#grid3').attr('src', 'images/portfolio/BOX/small/03-min.jpg');
-        $('#grid4').attr('src', 'images/portfolio/BOX/other_worlds_box.jpg');
+        $('#grid1').attr('src', 'images/portfolio/BOX/other_worlds_box.jpg');
+        $('#grid2').attr('src', 'images/portfolio/BOX/small/01-min.jpg');
+        $('#grid3').attr('src', 'images/portfolio/BOX/small/02-min.jpg');
+        $('#grid4').attr('src', 'images/portfolio/BOX/small/03-min.jpg');
         $('#grid5').attr('src', 'images/portfolio/BOX/small/05-min.jpg');
         $('#grid6').attr('src', 'images/portfolio/BOX/small/06-min.jpg');
         $('#grid7').attr('src', 'images/portfolio/BOX/small/07-min.jpg');
         $('#grid8').attr('src', 'images/portfolio/BOX/small/08-min.jpg')
     }
     else {
-
+        
         $('#grid1').hover(function(){
-            $('#grid1').attr('src', 'images/portfolio/BOX/small/01-min.jpg')
+            $('#grid1').attr('src', 'images/portfolio/BOX/other_worlds_box.jpg')
         }, function(){
-            $('#grid1').attr('src', 'images/portfolio/small/01-min.jpg')
+            $('#grid1').attr('src', 'images/portfolio/worlds/other_worlds.jpg')
+        });
+
+        $('#grid2').hover(function(){
+            $('#grid2').attr('src', 'images/portfolio/BOX/small/01-min.jpg')
+        }, function(){
+            $('#grid2').attr('src', 'images/portfolio/small/01-min.jpg')
         });
         
 
-        $('#grid2').hover(function(){
-            $('#grid2').attr('src', 'images/portfolio/BOX/small/02-min.jpg')
-        }, function(){
-            $('#grid2').attr('src', 'images/portfolio/small/02-min.jpg')
-        });
-
-
         $('#grid3').hover(function(){
-            $('#grid3').attr('src', 'images/portfolio/BOX/small/03-min.jpg')
+            $('#grid3').attr('src', 'images/portfolio/BOX/small/02-min.jpg')
         }, function(){
-            $('#grid3').attr('src', 'images/portfolio/small/03-min.jpg')
+            $('#grid3').attr('src', 'images/portfolio/small/02-min.jpg')
         });
 
 
         $('#grid4').hover(function(){
-            $('#grid4').attr('src', 'images/portfolio/BOX/other_worlds_box.jpg')
+            $('#grid4').attr('src', 'images/portfolio/BOX/small/03-min.jpg')
         }, function(){
-            $('#grid4').attr('src', 'images/portfolio/worlds/other_worlds.jpg')
+            $('#grid4').attr('src', 'images/portfolio/small/03-min.jpg')
         });
 
 

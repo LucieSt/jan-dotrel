@@ -22,19 +22,19 @@
         <div id="homepage-carousel" class="carousel fade" data-ride="carousel">
             <div class="carousel-inner" role="listbox">
                 <div class="item active" id="white" >
-                    <img src="images/homepage/thumbs/00.jpg" class="homepage-image">
+                    <img src="images/homepage/thumbs/mobil/00M.jpg" class="homepage-image" id="hp-00">
                 </div>
                 <div class="item">
-                    <img src="images/homepage/thumbs/01.jpg" class="homepage-image" id="hp-01">
+                    <img src="images/homepage/thumbs/mobil/01M.jpg" class="homepage-image" id="hp-01">
                 </div>
                 <div class="item">
-                    <img src="images/homepage/thumbs/02.jpg" class="homepage-image" id="hp-02">
+                    <img src="images/homepage/thumbs/mobil/02M.jpg" class="homepage-image" id="hp-02">
                 </div>
                 <div class="item">
-                    <img src="images/homepage/thumbs/03.jpg" class="homepage-image" id="hp-03">
+                    <img src="images/homepage/thumbs/mobil/01M" class="homepage-image" id="hp-03">
                 </div>
                 <div class="item">
-                    <img src="images/homepage/thumbs/04.jpg" class="homepage-image" id="hp-04">
+                    <img src="images/homepage/thumbs/mobil/02M.jpg" class="homepage-image" id="hp-04">
                 </div>
             </div>
         </div>
@@ -43,11 +43,12 @@
 
 <script>
 
-    if ($(window).width() < 700) {
-        $('#hp-01').attr('src', 'images/homepage/thumbs/mobil/01M.jpg')
-        $('#hp-02').attr('src', 'images/homepage/thumbs/mobil/02M.jpg')
-        $('#hp-03').attr('src', 'images/homepage/thumbs/mobil/01M.jpg')
-        $('#hp-04').attr('src', 'images/homepage/thumbs/mobil/02M.jpg')
+    if ($(window).width() > 701) {
+        $('#hp-00').attr('src', 'images/homepage/thumbs/00.jpg')
+        $('#hp-01').attr('src', 'images/homepage/thumbs/01.jpg')
+        $('#hp-02').attr('src', 'images/homepage/thumbs/02.jpg')
+        $('#hp-03').attr('src', 'images/homepage/thumbs/03.jpg')
+        $('#hp-04').attr('src', 'images/homepage/thumbs/04.jpg')
     }
 
     $('#homepage-carousel').carousel({
