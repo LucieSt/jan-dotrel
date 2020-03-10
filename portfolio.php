@@ -270,7 +270,7 @@
     });
 
 
-    if ($(window).width() < 700) {
+    if ($(window).width() < 850) {
         $('#grid1').attr('src', 'images/portfolio/BOX/other_worlds_box.jpg');
         $('#grid2').attr('src', 'images/portfolio/BOX/small/01-min.jpg');
         $('#grid3').attr('src', 'images/portfolio/BOX/small/02-min.jpg');

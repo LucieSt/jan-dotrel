@@ -93,7 +93,7 @@
         midClick: true // Allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source in href.
     });
 
-    if ($(window).width() < 700) {
+    if ($(window).width() < 850) {
         $('#extra1').attr('src', 'images/extracts/boxes/01_box.jpg')
         $('#extra2').attr('src', 'images/extracts/boxes/02_box.jpg')
         $('#extra3').attr('src', 'images/extracts/boxes/03_box.jpg')
