@@ -19,52 +19,27 @@
     <?php include 'menu.php' ?>
     <div class="content-container">
 
-
         <div class="text-text">
-            <br><br>
-            <p><br>
-                Fotografie se někdy sbližuje s malířstvím, jindy naopak; někdy aranžuje, jindy nikoli; chce být dokumentem,
-                a současně chce znepokojovat náznaky. To nejsou krajnosti, nýbrž sama podstata fotografie, která je dvojí:
-                je ikonická, to jest podobá se tomu, co zachycuje, a je indexikální, protože jako natažený prst ukazuje k tomu,
-                co zde již není. Obojí se však nepopírá, nýbrž doplňuje – a proto je možné spatřit mezi obojím vztah symetrie.
+            <p class="center">“V myšlení se člověk vydává na nebezpečnou pouť tam a zase zpátky, aby přinesl kousek chaosu, jenž pak obrací proti mínění.”
             </p>
+            <p class="right">Gilles Deleuze a Félix Guattari: Co je filosofie, 1991<br><br></p>
 
-            <p>
-                Dvojobraz je jeden, i když je mezi dvěma obrazy třetí a dohromady tvoří triptych. Hledáme, čím se tyto obrazy
-                odlišují, a musíme si přiznat, že jsme na špatné cestě, protože to, co máme před očima,
-                je obraz jediný. Anebo se pokoušíme dešifrovat zvláštní kompozici a zjišťujeme, že téma a kompozici nemůžeme od
-                sebe oddělovat. Anebo se nám zdá, že rozumíme symbolickému významu, jenže figura je živá – je to fotografie,
-                nic z oblasti symbolů anebo alegorií. A to platí stejně pro portrét jako krajinu a stejně i pro koncept,
-                čili fotografii myšlenky.
+            <p>Pro Janovy fotografie je podstatné pnutí mezi redukovatelností a neredukovatelností. Na jedné straně se odvolává na platónská tělesa, čtvercové mřížky (gridy) a Fibonacciho posloupnost, na druhé straně se brání reduktivní univerzalizaci těchto principů, a snaží se je narušovat. Platónská tělesa (čtyřstěn, osmistěn, krychle, dvanáctistěn a dvacetistěn) lze brát jakožto nejzákladnější prostorové formy, složené ze stejných, rovnostranných ploch -  trojúhelníků, čtverců a pětiúhelníků. Další redukce těchto tvarů není možná, jsou fundamentální. Díky čtvercové síti lze určit souřadnice libovolného bodu v dvojdimenzionálním prostoru, jedná se tedy o spolehlivý způsob tvorby grafů redukujícího fenomény v čase na hromadu propojených bodů. Fibonacciho posloupnost je rovnicí pro spirálovitý růst a konverguje k zlatému řezu, jehož poměry lze vystopovat v mnoha objektech a fenoménech tohoto světa - spoustu přírodních jevů a tvarů lze na tuto posloupnost redukovat, například růst větví borovic, tvar šišek či uspořádání okvětních lístků.</p>
+
+            <p>Tato tělesa a jejich reprezentace pak Jan zasazuje do specificky vybraného přírodního prostředí, které je svými vlastnostmi, nahodilostí uspořádání, neustálými proměnami a růstu naopak neredukovatelné. Teorie chaosu tvrdí, že náhoda neexistuje, protože to, co je považováno za náhodné, je ve skutečnosti procesem vystaveným tolika vlivům a tlakům, že je nelze všechny vzít v úvahu. Chaos je komplexní a neredukovatelný, setkání s chaosem má podobu intenzity a rozostření, je tedy z podstaty mystickou zkušeností. Hromady písku, eroze, praskliny v asfaltu, růst a rozložení flóry to vše jsou multiplicity vycházející z neopakovatelných podmínek, jsou jedinečné. Jan vystavuje své platónské objekty a gridy též rozpadu a destrukci, která narušuje jejich celistvost. Vydává tak tímto způsobem dokonalé formy obrovskému mnoství neredukovatelných sil, které způsobí nepředvídatelný rozpad.</p>
+
+            <p>V tomto směru lze též mluvit o vztahu umění a vědy, potažmo společenských věd a exaktní vědy. Věda je reduktivní, řídící se zákonem Occamovy břitvy, jenž z teorií odstraňuje přebytečné teze. Hypotézy a teorie mohou vedle sebe existovat jen do té doby, dokud není jedna z nich potvrzena, pak jsou všechny ostatní anihilovány. Jakmile se jednou zjistí, že je země kulatá, je to fakt, který nelze vyvrátit, a jeho alternativy už nejsou validní. Na druhou stranu je součástí věd i vědomí vnějšku, tedy neprobádaných a nejasných jevů a fenoménů. Oproti rozšířené představě nelze expanzi lidského poznání pomocí exaktních věd vnímat jako zaplňování mezer či zkoumání mapy. Je třeba ji vnímat též jako rozevírání propasti. Například důležité kosmologické objevy posledních dekád už svými jmény naznačují, že to, co jsme poodkryli, se stále více vymyká lidskému a pozemskému rozměru. Temná hmota a temná energie, dohromady tvořící víc než 80 % hmoty ve známém vesmíru, představují něco, co lze detekovat jen stopově, ale nemáme přístup k pravé podstatě těchto jevů. Naopak dávají tušit, že všude kolem nás existuje celá naprosto neznámá dimenze. Vlivem  exaktních věd je svět stále divnější a cizejší.</p>
+
+            <p>Umění, potažmo celá kultura a společenské vědy, však fungují zcela opačně. Kultura není historicky lineární a hierarchie jsou zdánlivé. Cokoliv, co se stane předmětem kultury, nikdy nezaniká a vždy se může vrátit, zmutovat k nepoznání a infikovat přítomnost. Svět funguje jako pole možností, ze kterého jsou sestavovány kompozice. K exaktním vědám bude mít umění vždy ambivalentní vztah, protože propasti jsou pro představivost mnohem přitažlivější než jejich zaplňování, a umění nechce být pouhou ilustrací již vyřčeného. Výše zmíněná cizost a divnost je jakýmsi intuitivním kompasem, který loď imaginace naviguje mimo všechny dosud známé země a horizonty. Janovy pokusy o konfrontaci primárních geometrických struktur a matematických principů s neredukovatelným chaosem jsou pak vyjádřením právě této nespokojenosti s tím, co je nám známo. Vychází z fascinace nad dokonalostí proporcí těles, které starořečtí filosofové považovali za model světa - a zároveň se snaží je vidět nezatíženým zrakem a pokusit se aspoň metaforicky vyčistit stůl od starých ontologických koncepcí. Jeden svět nestačí, protože jiný svět je možný.</p>
+
+            <p class="right"><br>
+                Jozef Mrva ml.
             </p>
-
-            <p>
-                Vteřiny symetrie Jana Dotřela jsou průhledem nikoli do nějakého ne-skutečného světa za hranicemi našeho světa,
-                nýbrž jsou jakoby rozevřenou trhlinou, v níž se v realitě ukazuje – realita; nikoli jako jedno vedle druhého,
-                nýbrž jako jedno v druhém. Je to okamžik, v němž pochopíme, že to, čemu říkáme skutečnost, je neúplné a necelé,
-                dokud nespatříme onen rozměr reality, jenž je nepříliš šťastně označován jako estetický. Ve vteřině symetrického
-                vztahu mezi realitou a jejím neméně reálnou, až běžně neviděnou virtualitou, se vyjeví, že estetika je skutečnosti
-                vlastní jako její skrytý rozměr. A že to není nic jiného než možnost vidět totéž vždy znovu jinak. Svět,
-                v němž žijeme, je stále stejný a stále jiný. Fotografie je schopna dokázat, že to není žádný rozpor, nýbrž že
-                jedno je neustále v druhém. Že mezi obojím je symetrický vztah.
-            </p>
-
-            <p class="right">
-                <br>Prof. Miroslav Petříček, Dr.
-            </p>
-
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
         </div>
     </div>
 </div>
 
+<script src="script.js"></script>
 
 </body>
 </html>

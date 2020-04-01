@@ -19,11 +19,17 @@
     <?php include 'menu.php' ?>
     <div class="content-container">
         <div class="text">
-            j a n @ k v a l i t a r . c z<br><br>
+            J A N @ K V A L I T A R . C Z<br><br>
+            +  4 2 0  7 2 5  2 9 6  1 7 6<br><br>
+            K L I M E N T S K Á  2<br><br>
+            P R A G U E  1<br><br>
+            1 1 0  0 0<br>
+
+            <!-- j a n @ k v a l i t a r . c z<br><br>
             +  4 2 0  7 2 5  2 9 6  1 7 6<br><br>
             k l i m e n t s k á  2<br><br>
             p r a g u e  1<br><br>
-            1 1 0  0 0<br>
+            1 1 0  0 0<br> -->
             
             <img src="images/contact/Icosahedron-grey-trans.gif" id="contact-anim">
         </div>
@@ -34,7 +40,7 @@
 
 </div>
 
-
+<script src="script.js"></script>
 
 </body>
 </html>

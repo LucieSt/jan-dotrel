@@ -144,11 +144,11 @@ button::-moz-focus-inner {
     top: 1px; }
 
 .mfp-close-btn-in .mfp-close {
-  color: #333; }
+  color: #908e8f; }
 
 .mfp-image-holder .mfp-close,
 .mfp-iframe-holder .mfp-close {
-  color: #FFF;
+  color: #908e8f;
   position: fixed;
   left: 0.8em;
   top: 0.5em;
@@ -268,8 +268,8 @@ img.mfp-img {
     width: auto;
     height: auto;
     z-index: -1;
-    box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
-    background: #444; }
+    box-shadow: 0;
+    background: white; }
   .mfp-figure small {
     color: #BDBDBD;
     display: block;
@@ -279,7 +279,7 @@ img.mfp-img {
     margin: 0; }
 
 .mfp-bottom-bar {
-  margin-top: -36px;
+  margin-top: 0;
   position: absolute;
   top: 100%;
   left: 0;
@@ -287,11 +287,11 @@ img.mfp-img {
   cursor: auto; }
 
 .mfp-title {
-  text-align: left;
+  text-align: center;
   line-height: 18px;
-  color: #F3F3F3;
+  color: #908e8f;
   word-wrap: break-word;
-  padding-right: 36px; }
+  padding-right: 0; }
 
 .mfp-image-holder .mfp-content {
   max-width: 100%; }
