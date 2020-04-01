@@ -31,7 +31,7 @@
                     <img src="images/homepage/thumbs/mobil/02M.jpg" class="homepage-image" id="hp-02">
                 </div>
                 <div class="item">
-                    <img src="images/homepage/thumbs/mobil/01M" class="homepage-image" id="hp-03">
+                    <img src="images/homepage/thumbs/mobil/01M.jpg" class="homepage-image" id="hp-03">
                 </div>
                 <div class="item">
                     <img src="images/homepage/thumbs/mobil/02M.jpg" class="homepage-image" id="hp-04">
